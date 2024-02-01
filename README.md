@@ -6,7 +6,9 @@
 
 🏠 from kolkata, india
 
-🔥 Building and maintaining [hotpdf](https://github.com/weareprestatech/hotpdf): A fast PDF parsing library.
+🔥 Building and maintaining [hotpdf]([https://github.com/weareprestatech/hotpdf](https://pypi.org/project/hotpdf/)): A fast PDF parsing library. 
+
+ `pip install hotpdf`
 
 ⚒️ also check out:
  - heißdocs: AI-enabled full text query engine for PDFs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;([repo](https://github.com/krishnasism/heissdocs) | [website](https://heissdocs.com/) | [producthunt](https://www.producthunt.com/posts/heissdocs)&nbsp;)
