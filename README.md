@@ -1,6 +1,6 @@
 **Krishnasis Mandal**
 
-👨🏽‍💻 software engineer @ [prestatech](https://prestatech.com/)
+👨🏽‍💻 software engineer
 
 📍 living in berlin, germany
 
