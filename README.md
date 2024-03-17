@@ -10,9 +10,10 @@
 
  `pip install hotpdf`
 
-unfortunately wont be working on it anymore.😔 leaving the company.  hotpdf2 soon!?
+unfortunately, i wont be working on it anymore.😔 leaving the company.  hotpdf2 soon!?
 
 ⚒️ also check out:
+ - retry-later: Retry your functions asynchronously without stopping the flow of execution. ([repo](https://github.com/krishnasism/retry-later) | [PyPI](https://pypi.org/project/retry-later/)&nbsp;)
  - heißdocs: AI-enabled full text query engine for PDFs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;([repo](https://github.com/krishnasism/heissdocs) | [website](https://heissdocs.com/) | [producthunt](https://www.producthunt.com/posts/heissdocs)&nbsp;)
  - spacehook: Quickly create mock API endpoints&nbsp;&nbsp;([repo](https://github.com/krishnasism/spacehook) | [try it out](https://deta.space/discovery/@krishnasism/spacehook) | [producthunt](https://www.producthunt.com/posts/spacehook-2))
 
