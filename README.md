@@ -6,7 +6,7 @@
 
 🏠 from kolkata, india
 
-🔥 built [hotpdf](https://pypi.org/project/hotpdf/): A fast PDF parsing library. 
+🔥 built [hotpdf](https://pypi.org/project/hotpdf/): A fast PDF parsing library. (note: I no longer work here)
 
  `pip install hotpdf`
 
