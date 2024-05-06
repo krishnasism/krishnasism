@@ -1,6 +1,6 @@
 **Krishnasis Mandal**
 
-👨🏽‍💻 software engineer
+👨🏽‍💻 software engineer @ (flix)[https://www.flix.com/]
 
 📍 living in berlin, germany
 
