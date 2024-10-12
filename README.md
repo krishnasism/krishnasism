@@ -6,8 +6,6 @@
 
 🏠 from kolkata, india
 
-🛠️ currently building [extrainterviews.com](https://extrainterviews.com/landing) (dev preview)
-
 🔥 built [hotpdf](https://pypi.org/project/hotpdf/): A fast PDF parsing library. 
 
 👀 posting updates on [krishnasism.github.io](https://krishnasism.github.io)
