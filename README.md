@@ -1,6 +1,6 @@
 **Krishnasis Mandal**
 
-👨🏽‍💻 software engineer
+👨🏽‍💻 software engineer (cloud engineer - data platform) @ [riverty](https://www.riverty.com/en/)
 
 📍 living in berlin, germany
 
