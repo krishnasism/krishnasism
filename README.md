@@ -8,6 +8,8 @@
 
 🏠 from kolkata, india
 
+🚴‍♀️ cycling on [strava](https://www.strava.com/athletes/101410168)
+
 🔥 built [hotpdf](https://pypi.org/project/hotpdf/): A fast PDF parsing library. 
 
 📷 posting pictures on [krishnasism.github.io](https://krishnasism.github.io)
