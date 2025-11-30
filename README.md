@@ -1,4 +1,4 @@
-**Krishnasis Mandal**
+**Krish**
 
 👨🏽‍💻 software engineer
 
