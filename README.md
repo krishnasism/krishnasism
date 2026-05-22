@@ -12,8 +12,6 @@
 
 🔥 built [hotpdf](https://pypi.org/project/hotpdf/): A fast PDF parsing library. 
 
-📷 posting pictures on [krishnasism.github.io](https://krishnasism.github.io)
-
  `pip install hotpdf`
 
 ⚒️ also check out:
