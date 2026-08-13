@@ -2,6 +2,8 @@
 
 👨🏽‍💻 software engineer
 
+Currently working on [localcoder](https://github.com/krishnasism/localcoder) to prevent myself from running out of tokens
+
 🔥 built [hotpdf](https://pypi.org/project/hotpdf/): A fast PDF parsing library. 
 
  `pip install hotpdf`
